@@ -56,7 +56,7 @@ final Function()? onPressed;
                 ),
 
                 const SizedBox(
-                  width: 50,
+                  width: 20,
                 ),
                 
                 Container(

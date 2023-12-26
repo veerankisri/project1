@@ -41,7 +41,7 @@ class IntroPage extends StatelessWidget {
               SizedBox(width: 15,),
           
               
-               Text('to your',
+               Text('to',
               style: TextStyle(
                 fontSize: 40,
                 fontWeight: FontWeight.bold,
@@ -52,7 +52,7 @@ class IntroPage extends StatelessWidget {
           ),
 
         ),
-         Text('doorstep.',
+         Text('your doorstep.',
               style: TextStyle(
                 fontSize: 36,
                 fontWeight: FontWeight.bold,
